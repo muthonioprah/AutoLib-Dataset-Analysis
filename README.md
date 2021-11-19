@@ -6,8 +6,14 @@ Identify the most popular hour of the day for picking up a shared electric car (
 
 What is the most popular hour for returning cars?
 
-What station is the most popular? Overall? At the most popular picking hour?
+What station is the most popular?
+
+Overall?
+
+At the most popular picking hour?
 
 The Language used is Python
 
 The project was done on a Google Colab Notebook IDE
+
+A data report was written containing the analysis process and recommendations
